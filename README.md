@@ -1,2 +1,2 @@
 # SignCrux
-Content Authentication &amp; Provenance System. AI-era plagiarism detection with semantic fingerprinting, cryptographic proof, and visual signatures
+Content Authentication & Provenance System (CAPS): An open-source platform for AI-era plagiarism detection and content ownership verification. Features include four-stage detection pipeline with semantic embeddings, cryptographic authentication using Ed25519 signatures, visual token-based proof system, and timestamped evidence chains for legal disputes.

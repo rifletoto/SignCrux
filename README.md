@@ -1,5 +1,4 @@
 # SignCrux
-# SignCrux
 
 **Content Authentication & Provenance System (CAPS)**
 
